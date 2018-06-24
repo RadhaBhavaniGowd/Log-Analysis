@@ -15,6 +15,8 @@ Download and install
 1. vagrant up to start up the VM.
 2. vagrant ssh to log into the VM.
 3. cd /vagrant to change to your vagrant directory.
-4. Clone the repo, and go to Log Analysis directory.
-5. psql -d news -f newsdata.sql to load the data and create the tables.
-6. python news.py to run the reporting tool.
+4. Download the [newsdata](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip).
+5. Clone the repo, and go to Log-Analysis directory.
+6. Unzip newdata file and copy newsdata.sql to Log-Analysis.
+7. psql -d news -f newsdata.sql to load the data and create the tables.
+8. python news.py to run the reporting tool.
