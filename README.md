@@ -9,8 +9,12 @@ Download and install
 - [VirtualBox](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1)
 - [Vagrant](https://www.vagrantup.com)
 - [Python](https://www.python.org/)
+- [VM Configurations](https://github.com/udacity/fullstack-nanodegree-vm/archive/master.zip)
 
-#### **Run these commands from the terminal in the folder where your vagrant is installed in:**
+### **VM Config Directory:**
+	Vagrant sub-directory in the fullstack-nanodegree-vm folder, downloaded from VM Configurations.
+
+#### **Run these commands from VM Config Directory:**
 
 1. vagrant up to start up the VM.
 2. vagrant ssh to log into the VM.
