@@ -12,7 +12,7 @@ Download and install
 - [VM Configurations](https://github.com/udacity/fullstack-nanodegree-vm/archive/master.zip)
 
 ### **VM Config Directory:**
-	Vagrant sub-directory in the fullstack-nanodegree-vm folder, downloaded from VM Configurations.
+Vagrant sub-directory in the fullstack-nanodegree-vm folder, downloaded from [VM Configurations](https://github.com/udacity/fullstack-nanodegree-vm/archive/master.zip).
 
 #### **Run these commands from VM Config Directory:**
 
